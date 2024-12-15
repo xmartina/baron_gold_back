@@ -1,4 +1,4 @@
-{$home_url = 'https://econoxtrades.online/'}
+{$home_url = 'https://barongold.online/'}
 <!doctype html>
 <html lang="en">
 <head>
