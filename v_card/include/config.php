@@ -11,6 +11,3 @@ $external_base_url = 'https://qfsholdings.io/';
  $login_url = $base_url . '?a=login';
 const current_year = '|default:2024';
 
-{$home_url = 'https://barongold.online/'}
-{$site_url = 'https://account.barongold.online/'}
-{$site_name = 'Baron Capital Investment (Gold)'}
