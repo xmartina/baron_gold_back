@@ -1,9 +1,9 @@
 <?php
 // Database connection parameters
 $servername = "localhost";  // Database server
-$username = "multistream6_econoxtrades_back";         // Database username
-$password = "econoxtrades_back";             // Database password
-$dbname = "multistream6_econoxtrades_back";
+$username = "multistream6_barongold_back";         // Database username
+$password = "barongold_back";             // Database password
+$dbname = "multistream6_barongold_back";
 // Create a connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 
