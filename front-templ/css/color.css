@@ -1,0 +1,181 @@
+/* Color */
+
+button.filter-btn:hover,
+
+.Copyright a,
+
+.freelance h5,.live i,
+
+.Packages sup,
+
+ul.Quick-Links a:hover,
+
+.Consult a:hover,
+
+.pan i
+
+,.date-tim li i,
+
+.Custom i,
+
+.Provides .nav-pills .nav-link.active,
+
+ .nav-pills .show>.nav-link
+
+,.Packages-icon li a,
+
+.Copyright-2 a,
+
+.Experience span,
+
+.Project sup,.Expert > a:hover
+
+,.Jakki a,
+
+.studies a:hover,
+
+.strategy a:hover,
+
+.contact-details i,
+
+.Online.Media i,
+
+.Coping span,
+
+.Jessica span
+
+,.Creativ i,
+
+.Social-work span
+
+.Posted span,
+
+.Commens-data span,.dropdown > a:hover,
+
+.Informatio i,
+
+.Posted span,
+
+input[type=checkbox]:checked + label:before,
+
+.Social-work span,
+
+.studies a.on,.mobile-nav > ul > li.menu-item-has-children.active,
+
+.icon-gp i,
+
+.contact-details.social i
+
+{
+
+    color: #ff6d55;
+
+}
+
+
+
+/* Background Color */
+
+button.one,
+
+.drop-box:before,
+
+button.filter-btn.active-filter.active-work:after,
+
+.our-portfolio button.filter-btn:hover:after,
+
+.header-for-top-bar,
+
+.Packages:before,
+
+section.Together:before,
+
+#scroll,.pan:before,
+
+li.date,.service:hover:after,
+
+.service i,
+
+.history-timeline:before,
+
+.years,
+
+.btn-one:after,
+
+.Finance:hover .Busi,
+
+.accordion-button:not(.collapsed),
+
+.tim,
+
+.search-cross-btn,
+
+.active,
+
+ footer.two:before,
+
+.progress-bar,
+
+.Business-Growth-three .parallax:before,
+
+.Project:before,
+
+.Case,
+
+.Expert-icon:hover i.fa.fa-share-alt,
+
+.baner:before,
+
+.Expert span,
+
+.logo-head:after,
+
+.pagenashion-number a.two,
+
+.pagenashion-number a.pagenashion:hover,
+
+li.atems:hover .atem-number,
+
+.tag a:hover,
+
+li.Photo:before,
+
+.few,
+
+button.slick-arrow:hover,
+
+.aptent li:before,
+
+.Reply a,
+
+.navNext i:hover,
+
+.navPrev i:hover,
+
+.owl-carousel:after,
+
+section.error:before,
+
+.slider-nav-three h3.slick-current{
+
+    background-color:#ff5442 ;
+
+}
+
+
+
+
+
+/* Border Color */
+
+.Packages:hover,
+
+.service:hover,
+
+.slider-nav-two .slick-current img,
+
+.slick-dots li.slick-active button:before{
+
+    border-color: #ff5240;
+
+}

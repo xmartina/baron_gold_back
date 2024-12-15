@@ -1,0 +1,49 @@
+.overlay-light{
+    opacity: .3;
+}
+html h3 .text-15{
+    font-size: 15px!important;
+}
+.term-border{
+    border-left: 3px solid #050589;
+    line-height: 1.9;
+    padding-left:18px;
+    margin-top:159px;
+}
+html .contact-heading{
+    line-height: 1.9!important;
+    margin-top:210px!important;
+}
+html .line-height-1-9{
+    line-height:1.9!important;
+}
+html .invest_request{
+    font-size: 9px;
+}
+html .br_invest{
+    font-size: 5px;
+}
+html .invest_plan{
+    font-size: 13px !important;
+    line-height: 1.1;
+    color:#0b1d26;
+}
+/*html .stock_plan_row:hover{*/
+/*    transform: scale(.9%);*/
+/*}*/
+@media (max-width: 400px){
+    html .py-2.px-4.shadow.rounded .row .col-lg-3{
+        display: flex;
+        justify-content: center;
+    }
+    html .plan_logo{
+        width: 40% !important;
+        margin:21px 1px;
+    }
+    html .flex-sm{
+        flex-direction: row !important;
+    }
+    .html .h2-sm{
+        font-size: 19px;
+    }
+}
